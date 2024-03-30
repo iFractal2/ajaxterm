@@ -10,7 +10,7 @@ TODO:
 3: Double-check to see if anything can be shortened, or made more efficient
 4: Create a Command map/Parsing
 5: Create Error code map/Parsing
-
+6: get good at git
 
 
 ]]
